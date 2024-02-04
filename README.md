@@ -9,6 +9,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE-MIT)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE-APACHE)
 
+> Temporary Kvarn fork to be removed when real Quinn 0.11 publishes with rustls 0.22 support.
+
 Quinn is a pure-rust, async-compatible implementation of the IETF [QUIC][quic] transport protocol.
 
 ## Features
